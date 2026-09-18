@@ -16,7 +16,7 @@ const USERS = [
         id: "ADMIN",
         password: "Vidya@2306",
         role: "ADMINISTRATOR",
-        name: "POLARIS Administrator"
+        name: "AQUATRACE Administrator"
     },
     {
         id: "OPS01",
@@ -40,7 +40,7 @@ const USERS = [
         id: "LAB01",
         password: "LAB@2026",
         role: "LABORATORY",
-        name: "POLARIS Laboratory"
+        name: "AQUATRACE Laboratory"
     }
 ];
 
@@ -563,7 +563,7 @@ function renderLogin() {
 
                 <div class="login-footer">
 
-                    POLARIS MARINE INTELLIGENCE SYSTEM<br>
+                    AQUATRACE MARINE INTELLIGENCE SYSTEM<br>
 
                     Secure observation console · Prototype Environment
 
@@ -654,7 +654,7 @@ function renderConsole() {
 
                 <div class="console-brand">
 
-                    <h1>POLARIS</h1>
+                    <h1>AQUATRACE</h1>
 
                     <span>
                         Marine Observation Network
