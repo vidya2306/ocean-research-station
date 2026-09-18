@@ -1,6 +1,6 @@
 // your code goes here
 /* =========================================================
-   POLARIS
+   AQUATRACE
    Autonomous Marine Observation Network
 
    Frontend prototype
@@ -13,31 +13,31 @@
 
 const USERS = [
     {
-        id: "POLARIS-ADMIN",
+        id: "ADMIN",
         password: "POLARIS@2026",
         role: "ADMINISTRATOR",
         name: "POLARIS Administrator"
     },
     {
-        id: "POLARIS-OPS01",
+        id: "OPS01",
         password: "OCEAN@2026",
         role: "RESEARCH OPERATOR",
         name: "Ocean Operations 01"
     },
     {
-        id: "POLARIS-OPS02",
+        id: "OPS02",
         password: "ATLANTIS@2026",
         role: "RESEARCH OPERATOR",
         name: "Ocean Operations 02"
     },
     {
-        id: "POLARIS-OBS01",
+        id: "OBS01",
         password: "OBSERVE@2026",
         role: "OBSERVER",
         name: "Observation Desk"
     },
     {
-        id: "POLARIS-LAB01",
+        id: "LAB01",
         password: "LAB@2026",
         role: "LABORATORY",
         name: "POLARIS Laboratory"
