@@ -495,7 +495,7 @@ function renderLogin() {
 
                 <div class="login-brand">
 
-                    <h1>POLARIS</h1>
+                    <h1>AQUATRACE</h1>
 
                     <p>
                         Autonomous Marine Observation Network
